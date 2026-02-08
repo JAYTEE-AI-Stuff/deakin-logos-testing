@@ -1,8 +1,8 @@
 {
   "baseUrl": "https://client-files.github.io/deakin-test-logos/logos/",
   "variants": [
-    { "key": "DU-GENERIC", "label": "Generic Stacked", "file": "DU-GENERIC_Logo-Stacked-Keyline.svg" },
-    { "key": "DU-GENERIC", "label": "Generic Roundel", "file": "DU-GENERIC_Logo-Roundel-Keyline.svg" },
+    { "key": "DU-GENERIC-S", "label": "Generic Stacked", "file": "DU-GENERIC_Logo-Stacked-Keyline.svg" },
+    { "key": "DU-GENERIC-R", "label": "Generic Roundel", "file": "DU-GENERIC_Logo-Roundel-Keyline.svg" },
     { "key": "B-DU-DoL-D", "label": "DoL-D", "file": "B-DU-DoL-D_Logo-Stacked-Keyline.svg" },
     { "key": "DU-3DGL", "label": "3D Geospatial Lab", "file": "DU-3DGL_Logo-Stacked-Keyline.svg" },
     { "key": "DU-A-WE", "label": "A-WE", "file": "DU-A-WE_Logo-Stacked-Keyline.svg" },
